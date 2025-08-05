@@ -1,0 +1,22 @@
+.logo {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    width: 60px;
+    height: auto;
+}
+
+.logo .icon {
+    font-size: 2rem;
+    color: var(--color-primary);
+}
+
+.color__primary {
+    color: #ffbf35;
+}
+
+.logo .name {
+    position: relative;
+    font-size: 1.3rem;
+    top: 4px;
+}
