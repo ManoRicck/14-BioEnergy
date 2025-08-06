@@ -34,23 +34,22 @@ const Testimonial = () => {
                         testimonial.map((list,index)=>(
                             <React.Fragment key={index}>
                                 <div className="stars__container">
-                                    <FaStar/>
-                                    <FaStar/>
-                                    <FaStar/>
-                                    <FaStar/>
-                                    <FaStar/>
+                                    {Array.from({ length: list.rating }, (_, i) => (
+                                    <FaStar key={i} />
+                                ))}
                                 </div>
                                 <p className="text__muted content">{list.review}</p>
                                 <div className="user__row">
                                     <div className="profile">
-                                        <img src={list.image} alt={list.name} />
+                                    <img src={list.image} alt={list.name} />
                                     </div>
                                     <div className="details">
-                                        <h3 className="name">{list.name}</h3>
-                                        <small>CEO of benvix</small>
+                                    <h3 className="name">{list.name}</h3>
+                                    <small>{list.position}</small>
                                     </div>
                                 </div>
                             </React.Fragment>
+
                         ))
                     }
                 </Slider>

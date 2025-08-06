@@ -214,36 +214,47 @@ export const faq = [
 
 export const testimonial = [
   {
-    image:profile1,
-    name:'Bill Gates',
-    review:` Fiquei impressionado com a qualidade do conteúdo e a tecnologia de modelagem 3D disponível no site. Foi muito útil para entender como os painéis solares seriam instalados e quais seriam os benefícios. Excelente trabalho!`
+    image: profile1,
+    name: 'Bill Gates',
+    position: 'Co-fundador da Microsoft',
+    rating: 5,
+    review: `Fiquei impressionado com a qualidade do conteúdo e a tecnologia de modelagem 3D disponível no site. Foi muito útil para entender como os painéis solares seriam instalados e quais seriam os benefícios. Excelente trabalho!`
   },
   {
-    image:profile2,
-    name:'Eiichiro Oda',
-    review:` O site é incrível! As informações sobre energia solar são muito detalhadas e fáceis de entender. A modelagem 3D realmente ajuda a visualizar como os painéis solares ficariam instalados na minha casa. Recomendo a todos que estão pensando em investir em energia solar.`
+    image: profile2,
+    name: 'Eiichiro Oda',
+    position: 'Autor de One Piece',
+    rating: 6,
+    review: `O site é incrível! As informações sobre energia solar são muito detalhadas e fáceis de entender. A modelagem 3D realmente ajuda a visualizar como os painéis solares ficariam instalados na minha casa. Recomendo a todos que estão pensando em investir em energia solar.`
   },
   {
-    image:profile3,
-    name:'Snoop Dog',
-    review:` Adorei a experiência no site. A seção de modelagem 3D é um diferencial enorme, pois permite ver exatamente como os painéis solares serão posicionados. Além disso, o conteúdo sobre energia solar é muito educativo e me ajudou a tomar uma decisão informada.`
+    image: profile3,
+    name: 'Snoop Dog',
+    position: 'Rapper e Empresário',
+    rating: 5,
+    review: `Adorei a experiência no site. A seção de modelagem 3D é um diferencial enorme, pois permite ver exatamente como os painéis solares serão posicionados. Além disso, o conteúdo sobre energia solar é muito educativo e me ajudou a tomar uma decisão informada.`
   },
   {
-    image:profile4,
-    name:'Elon Musk',
-    review:` Excelente site! As informações são claras e objetivas, e a ferramenta de modelagem 3D é fantástica. Pude planejar a instalação dos painéis solares com muito mais confiança. Parabéns pelo ótimo trabalho! `
+    image: profile4,
+    name: 'Elon Musk',
+    position: 'CEO da Tesla e SpaceX',
+    rating: 6,
+    review: `Excelente site! As informações são claras e objetivas, e a ferramenta de modelagem 3D é fantástica. Pude planejar a instalação dos painéis solares com muito mais confiança. Parabéns pelo ótimo trabalho!`
   },
   {
-    image:profile5,
-    name:'Mark Zuckerberg',
-    review:` Muito satisfeito com o site. A modelagem 3D é extremamente útil para entender o melhor posicionamento dos painéis solares. Além disso, o conteúdo sobre energia solar é muito completo e esclarecedor. Super recomendo!`
+    image: profile5,
+    name: 'Mark Zuckerberg',
+    position: 'CEO da Meta',
+    rating: 5,
+    review: `Muito satisfeito com o site. A modelagem 3D é extremamente útil para entender o melhor posicionamento dos painéis solares. Além disso, o conteúdo sobre energia solar é muito completo e esclarecedor. Super recomendo!`
   },
   {
-    image:profile6,
-    name:'Larry Ellison',
-    review:` O site é muito intuitivo e fácil de navegar. As informações sobre energia solar são bem organizadas e a modelagem 3D é um recurso fantástico que me ajudou a visualizar o projeto de forma clara. Estou muito satisfeito!`
+    image: profile6,
+    name: 'Larry Ellison',
+    position: 'Co-fundador da Oracle',
+    rating: 6,
+    review: `O site é muito intuitivo e fácil de navegar. As informações sobre energia solar são bem organizadas e a modelagem 3D é um recurso fantástico que me ajudou a visualizar o projeto de forma clara. Estou muito satisfeito!`
   }
-
 ];
 
 export const contacts = [
