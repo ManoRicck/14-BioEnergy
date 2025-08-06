@@ -254,7 +254,7 @@ export const contacts = [
   },
   {
     name:"Número de Telefone",
-    value:"+81994854982",
+    value:"+81999999999",
     icon:<IoCallOutline/>,
   },
   {
