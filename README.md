@@ -19,9 +19,11 @@ https://github.com/user-attachments/assets/0420eb08-b52c-4eed-9916-c608bd0e4d8e
     &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Vite-Build-646CFF?logo=vite&logoColor=FFD62E&style=for-the-badge" alt="Vite" height="30">
     &nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/JavaScript-JS-F7DF1E?logo=javascript&logoColor=yellow&style=for-the-badge" alt="JavaScript" height="30">
+    &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/CSS3-Styles-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS3" height="30">
     &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Firebase-BD-FFCA28?logo=firebase&logoColor=000&style=for-the-badge" alt="Firebase" height="30">
+  <img src="https://img.shields.io/badge/Firebase-BD-FFCA28?logo=firebase&logoColor=yellow&style=for-the-badge" alt="Firebase" height="30">
     &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Node.js-Runtime-339933?logo=nodedotjs&logoColor=339933&style=for-the-badge" alt="Node.js" height="30">
   <img src="https://img.shields.io/badge/JSON-Data-000000?logo=json&logoColor=white&style=for-the-badge" alt="JSON" height="30">
