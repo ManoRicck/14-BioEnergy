@@ -19,7 +19,7 @@ const Achievement = () => {
         const timeout = setTimeout( () =>{
             setClients(120);
             setProjects(150);
-            setTeam(5);
+            setTeam(6);
             setAwards(89);
 
         },500)
