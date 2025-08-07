@@ -93,6 +93,17 @@ export const teams = [
       {name:"Instagram",icon:<FaInstagram/>,url:"http://instagram.com"},
     ]
   },
+  {
+    name:"Wendell Gabriel",
+    title:"Git e GitHub",
+    profile:member6,
+    social:[
+      {name:"Github",icon:<FaGithub/>,url:"http://Github.com"},
+      {name:"LinkedIn",icon:<CiLinkedin/>,url:"http://linkedin.com"},
+      {name:"Discord",icon:<FaDiscord/>,url:"https://www.Discord.com"},
+      {name:"Instagram",icon:<FaInstagram/>,url:"http://instagram.com"},
+    ]
+  },
 ]
 
 export const projects = [
