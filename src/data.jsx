@@ -3,7 +3,7 @@ import { MdOutlineAlternateEmail } from "react-icons/md";
 import {FaInstagram, FaDiscord, FaGithub } from "react-icons/fa";
 import { CiLinkedin } from "react-icons/ci";
 import Documento from '/documento.pdf'
-import {  profile1, profile2, profile3 ,profile4 ,profile5, profile6, 
+import {  profile1, profile2, profile3 ,profile4 ,profile5, profile6, profile7,
         panel,turbine,batteries,
         member1, member2, member3, member4, member5, member6} from "./assets";
 
@@ -229,27 +229,34 @@ export const testimonial = [
   },
   {
     image: profile3,
+    name: 'Hideo Kojima',
+    position: 'Fundador da Kojima Productions',
+    rating: 6,
+    review: `Impressionante demais esse site! Olha essa geometria, meu Deus! Cara, como é que isso aqui tá no ar, mano? Véi, ó o nível de detalhe! Pelo amor de Deus, cara! BioEnergy, o que você fez?`
+  },
+  {
+    image: profile4,
     name: 'Snoop Dog',
     position: 'Rapper e Empresário',
     rating: 5,
     review: `Adorei a experiência no site. A seção de modelagem 3D é um diferencial enorme, pois permite ver exatamente como os painéis solares serão posicionados. Além disso, o conteúdo sobre energia solar é muito educativo e me ajudou a tomar uma decisão informada.`
   },
   {
-    image: profile4,
+    image: profile5,
     name: 'Elon Musk',
     position: 'CEO da Tesla e SpaceX',
     rating: 6,
     review: `Excelente site! As informações são claras e objetivas, e a ferramenta de modelagem 3D é fantástica. Pude planejar a instalação dos painéis solares com muito mais confiança. Parabéns pelo ótimo trabalho!`
   },
   {
-    image: profile5,
+    image: profile6,
     name: 'Mark Zuckerberg',
     position: 'CEO da Meta',
     rating: 5,
     review: `Muito satisfeito com o site. A modelagem 3D é extremamente útil para entender o melhor posicionamento dos painéis solares. Além disso, o conteúdo sobre energia solar é muito completo e esclarecedor. Super recomendo!`
   },
   {
-    image: profile6,
+    image: profile7,
     name: 'Larry Ellison',
     position: 'Co-fundador da Oracle',
     rating: 6,
