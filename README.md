@@ -80,10 +80,10 @@ Lançado em 2024, o projeto também visa conscientizar empresas e usuários fina
     <tr>
       <td align="center">
         <a href="https://github.com/ManoRicck">
-          <img src="https://github.com/user-attachments/assets/a44814b1-4d92-4546-84d2-9ab6a1e13d9e" width="140px;" height="130px;" alt="Nome do Dev"/>
+          <img src="https://github.com/user-attachments/assets/a44814b1-4d92-4546-84d2-9ab6a1e13d9e" width="160px;" height="150px;" alt="Nome do Dev"/>
           </a>
-          <h4>Henrique Expedito</h4>
-          <h5>Gerente | Frontend</h5>
+          <h3>Henrique Expedito</h3>
+          <h4>Gerente | Frontend</h4>
           <a href="https://github.com/ManoRicck" target="_blank" rel="noreferrer"><img src="https://images.icon-icons.com/3685/PNG/512/github_logo_icon_229278.png" width="26" height="36" alt="Github" 
           style="margin-right:8px;" /></a>
           <a href="https://discord.com/users/880941558403326002" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/b18b66d8-8cff-4c4b-b1df-5236a340f2fd" width="26" height="26"
