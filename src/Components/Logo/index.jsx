@@ -1,7 +1,7 @@
 import React from 'react'
 import "./Logo.css"
 
-import LogoImagem from '/logo.ico'
+import LogoImagem from '/logo.png'
 
 const Logo = () => {
     return (
