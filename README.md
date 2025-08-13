@@ -161,6 +161,7 @@ Lançado em 2024, o projeto também visa conscientizar empresas e usuários fina
 
 <br>
 
+
 ## 📦 Estrutura do Projeto
 
 ```tree
