@@ -94,18 +94,20 @@ Lançado em 2024, o projeto também visa conscientizar empresas e usuários fina
           width="26" height="26" alt="Linkdien" style="margin-right: 8px;" /></a>
       </td>
        <td align="center">
-        <a href="#">
+        <a href="https://github.com/JulioHenrique3">
           <img src="https://github.com/user-attachments/assets/eb45bfc3-acba-4136-8294-996e3a5b6124" width="150px;" height="150px;" alt="Júlio Henrique"/>
           </a>
           <h3>Júlio Henrique</h3>
           <h4>Back-end</h4>
-          <a href="#" target="_blank" rel="noreferrer"><img src="https://images.icon-icons.com/3685/PNG/512/github_logo_icon_229278.png" width="26" height="36" alt="Github" 
+          <a href="https://github.com/JulioHenrique3" target="_blank" rel="noreferrer"><img src="https://images.icon-icons.com/3685/PNG/512/github_logo_icon_229278.png" width="26" height="36" alt="Github" 
           style="margin-right:8px;" /></a>
           <a href="#" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/b18b66d8-8cff-4c4b-b1df-5236a340f2fd" width="26" height="26"
           alt="Discord" style="margin-right: 8px;" /></a>
-          <a href="#" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="26" height="26" alt="Instagram" 
+          <a href="https://www.instagram.com/krashado?utm_source=qr&igsh=ZGZ2b2RmazhjeXY1" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="26"
+          height="26" alt="Instagram" 
           style="margin-right: 8px;" /></a>
-          <a href="#" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="26"
+          <a href="https://www.linkedin.com/in/j%C3%BAlio-henrique-217a7328b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" rel="noreferrer">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="26"
           height="26" alt="Linkdien" style="margin-right: 8px;" /></a>
       </td>
       <td align="center">
