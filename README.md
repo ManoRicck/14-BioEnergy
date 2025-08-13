@@ -101,7 +101,7 @@ Lançado em 2024, o projeto também visa conscientizar empresas e usuários fina
           <h4>Back-end</h4>
           <a href="https://github.com/JulioHenrique3" target="_blank" rel="noreferrer"><img src="https://images.icon-icons.com/3685/PNG/512/github_logo_icon_229278.png" width="26" height="36" alt="Github" 
           style="margin-right:8px;" /></a>
-          <a href="#" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/b18b66d8-8cff-4c4b-b1df-5236a340f2fd" width="26" height="26"
+          <a href="https://discord.com/users/463721476688969728" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/b18b66d8-8cff-4c4b-b1df-5236a340f2fd" width="26" height="26"
           alt="Discord" style="margin-right: 8px;" /></a>
           <a href="https://www.instagram.com/krashado?utm_source=qr&igsh=ZGZ2b2RmazhjeXY1" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="26"
           height="26" alt="Instagram" 
