@@ -38,7 +38,7 @@ https://github.com/user-attachments/assets/48bd8a15-605c-4247-9d12-db67608bd6dd
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="24"> **React** | Criação de componentes e interface dinâmica | [React Docs](https://reactjs.org/) |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/2078px-Vitejs-logo.svg.png" width="24"> **Vite** | Build e ambiente de desenvolvimento | [Vite Docs](https://vitejs.dev/) |
 | <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7j353v8xe1h861uc5i53.png" width="24"> **CSS3** | Estilização da interface | [CSS Docs](https://developer.mozilla.org/pt-BR/docs/Web/CSS) |
-| <img src="https://www.gstatic.com/devrel-devsite/prod/v34fe5d0a1df120a3c24e6d73e25d1d8607836b03710a3ad508fa501ece2bdcb3/firebase/images/touchicon-180.png" width="24"> **Firebase** | Backend, Comentarios | [Firebase Docs](https://firebase.google.com/docs) |
+| <img src="https://www.gstatic.com/devrel-devsite/prod/v34fe5d0a1df120a3c24e6d73e25d1d8607836b03710a3ad508fa501ece2bdcb3/firebase/images/touchicon-180.png" width="24"> **Firebase** | Banco de Dados | [Firebase Docs](https://firebase.google.com/docs) |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="24"> **Node.js** | Execução de código no servidor | [Node.js Docs](https://nodejs.org/en/docs) |
 | <img src="https://cdn-icons-png.flaticon.com/512/12419/12419185.png" width="24"> **JSON** | Formato de dados e configuração | [JSON Guide](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/Objects/JSON) |
 
