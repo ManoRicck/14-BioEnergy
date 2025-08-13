@@ -82,7 +82,7 @@ Lançado em 2024, o projeto também visa conscientizar empresas e usuários fina
         <a href="https://github.com/ManoRicck">
           <img src="https://github.com/user-attachments/assets/a44814b1-4d92-4546-84d2-9ab6a1e13d9e" width="160px;" height="150px;" alt="Nome do Dev"/>
           </a>
-          <h3>Henrique Expedito</h3>
+          <h3>Henrique<br> Expedito</h3>
           <h4>Gerente | Frontend</h4>
           <a href="https://github.com/ManoRicck" target="_blank" rel="noreferrer"><img src="https://images.icon-icons.com/3685/PNG/512/github_logo_icon_229278.png" width="26" height="36" alt="Github" 
           style="margin-right:8px;" /></a>
@@ -97,7 +97,7 @@ Lançado em 2024, o projeto também visa conscientizar empresas e usuários fina
         <a href="https://github.com/JulioHenrique3">
           <img src="https://github.com/user-attachments/assets/eb45bfc3-acba-4136-8294-996e3a5b6124" width="160px;" height="150px;" alt="Júlio Henrique"/>
           </a>
-          <h3>Júlio Henrique</h3>
+          <h3>Júlio<br> Henrique</h3>
           <h4>Back-end</h4>
           <a href="https://github.com/JulioHenrique3" target="_blank" rel="noreferrer"><img src="https://images.icon-icons.com/3685/PNG/512/github_logo_icon_229278.png" width="26" height="36" alt="Github" 
           style="margin-right:8px;" /></a>
@@ -114,7 +114,7 @@ Lançado em 2024, o projeto também visa conscientizar empresas e usuários fina
         <a href="#">
           <img src="https://github.com/user-attachments/assets/9f6c7ff6-0b86-46f2-a141-ba0b33b5d2ee" width="160px;" height="150px;" alt="Júlio Henrique"/>
           </a>
-          <h3>Danilo Vinicius</h3>
+          <h3>Danilo<br> Vinicius</h3>
           <h4>Designer</h4>
           <a href="#" target="_blank" rel="noreferrer"><img src="https://images.icon-icons.com/3685/PNG/512/github_logo_icon_229278.png" width="26" height="36" alt="Github" 
           style="margin-right:8px;" /></a>
@@ -129,7 +129,7 @@ Lançado em 2024, o projeto também visa conscientizar empresas e usuários fina
         <a href="#">
           <img src="https://github.com/user-attachments/assets/a5dc73d1-a709-4418-be1e-6e4c41924801" width="160px;" height="150px;" alt="Júlio Henrique"/>
           </a>
-          <h3>Joaquim Acioli</h3>
+          <h3>Joaquim<br> Acioli</h3>
           <h4>Banco de Dados</h4>
           <a href="#" target="_blank" rel="noreferrer"><img src="https://images.icon-icons.com/3685/PNG/512/github_logo_icon_229278.png" width="26" height="36" alt="Github" 
           style="margin-right:8px;" /></a>
@@ -144,7 +144,7 @@ Lançado em 2024, o projeto também visa conscientizar empresas e usuários fina
         <a href="#">
           <img src="https://github.com/user-attachments/assets/31f2fd34-af6a-4db2-b573-79998600fa67" width="160px;" height="150px;" alt="Júlio Henrique"/>
           </a>
-          <h3>Yasmin Vitória</h3>
+          <h3>Yasmin<br> Vitória</h3>
           <h4>Analista de Dados</h4>
           <a href="#" target="_blank" rel="noreferrer"><img src="https://images.icon-icons.com/3685/PNG/512/github_logo_icon_229278.png" width="26" height="36" alt="Github" 
           style="margin-right:8px;" /></a>
