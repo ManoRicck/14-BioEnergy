@@ -80,7 +80,7 @@ Lançado em 2024, o projeto também visa conscientizar empresas e usuários fina
     <tr>
       <td align="center">
         <a href="https://github.com/ManoRicck">
-          <img src="https://github.com/user-attachments/assets/a44814b1-4d92-4546-84d2-9ab6a1e13d9e" width="150px;" height="150px;" alt="Nome do Dev"/>
+          <img src="https://github.com/user-attachments/assets/a44814b1-4d92-4546-84d2-9ab6a1e13d9e" width="150px;" height="145px;" alt="Nome do Dev"/>
           </a>
           <h3>Henrique<br> Expedito</h3>
           <h4>Gerente | Frontend</h4>
@@ -95,7 +95,7 @@ Lançado em 2024, o projeto também visa conscientizar empresas e usuários fina
       </td>
        <td align="center">
         <a href="https://github.com/JulioHenrique3">
-          <img src="https://github.com/user-attachments/assets/eb45bfc3-acba-4136-8294-996e3a5b6124" width="150px;" height="150px;" alt="Júlio Henrique"/>
+          <img src="https://github.com/user-attachments/assets/eb45bfc3-acba-4136-8294-996e3a5b6124" width="150px;" height="145px;" alt="Júlio Henrique"/>
           </a>
           <h3>Júlio<br> Henrique</h3>
           <h4>Back-end</h4>
@@ -112,7 +112,7 @@ Lançado em 2024, o projeto também visa conscientizar empresas e usuários fina
       </td>
       <td align="center">
         <a href="#">
-          <img src="https://github.com/user-attachments/assets/9f6c7ff6-0b86-46f2-a141-ba0b33b5d2ee" width="150px;" height="150px;" alt="Júlio Henrique"/>
+          <img src="https://github.com/user-attachments/assets/9f6c7ff6-0b86-46f2-a141-ba0b33b5d2ee" width="150px;" height="145px;" alt="Danilo Vinicius"/>
           </a>
           <h3>Danilo<br> Vinicius</h3>
           <h4>Designer</h4>
@@ -127,7 +127,7 @@ Lançado em 2024, o projeto também visa conscientizar empresas e usuários fina
       </td>
       <td align="center">
         <a href="#">
-          <img src="https://github.com/user-attachments/assets/a5dc73d1-a709-4418-be1e-6e4c41924801" width="150px;" height="150px;" alt="Júlio Henrique"/>
+          <img src="https://github.com/user-attachments/assets/a5dc73d1-a709-4418-be1e-6e4c41924801" width="150px;" height="145px;" alt="Joaquim Acioli"/>
           </a>
           <h3>Joaquim<br> Acioli</h3>
           <h4>Banco de Dados</h4>
@@ -142,7 +142,7 @@ Lançado em 2024, o projeto também visa conscientizar empresas e usuários fina
       </td>
       <td align="center">
         <a href="#">
-          <img src="https://github.com/user-attachments/assets/31f2fd34-af6a-4db2-b573-79998600fa67" width="150px;" height="150px;" alt="Júlio Henrique"/>
+          <img src="https://github.com/user-attachments/assets/31f2fd34-af6a-4db2-b573-79998600fa67" width="150px;" height="145px;" alt="Yasmin Vitória"/>
           </a>
           <h3>Yasmin<br> Vitória</h3>
           <h4>Analista de Dados</h4>
