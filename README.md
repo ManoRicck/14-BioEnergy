@@ -73,7 +73,7 @@ Lançado em 2024, o projeto também visa conscientizar empresas e usuários fina
  
 <br>
 
-## 👥 Equipe do Projeto
+## 👥 Equipe BioEnergy
 
 <div align="center">
   <table>
