@@ -40,7 +40,7 @@ export const services = [
 export const teams = [
   {
     name:"Henrique Expedito",
-    title:"Gerente | Frontend",
+    title:"CEO | Frontend",
     profile:member1,
     social:[
       {name:"Github",icon:<FaGithub/>,url:"https://github.com/ManoRicck"},
