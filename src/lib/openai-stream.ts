@@ -65,6 +65,7 @@ export async function OpenAIStream(payload: OpenAIStreamPayload) {
       for await (const chunk of res.body as ReadableStream<Uint8Array>) {
         parser.feed(decoder.decode(chunk))
       }
+
     },
   })
 
