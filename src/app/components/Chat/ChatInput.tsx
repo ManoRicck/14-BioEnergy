@@ -27,7 +27,9 @@ const ChatInput: FC<ChatInputProps> = ({ className, ...props }) => {
   const textareaRef = useRef<null | HTMLTextAreaElement>(null)
 
   const { mutate: sendMessage, isLoading } = useMutation({
-    mutationFn: async (_message: Message) => {
+    mutationFn: async (
+      // eslint-disable-next-line @typescript-eslint/no-unused-vars
+      _message: Message) => {
       const response = await fetch('/api/message', {
         method: 'POST',
         headers: {

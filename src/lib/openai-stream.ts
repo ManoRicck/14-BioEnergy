@@ -25,9 +25,6 @@ export async function OpenAIStream(payload: OpenAIStreamPayload) {
 
   let counter = 0
 
-  // ⏰ ADICIONE UM DELAY PARA EVITAR RATE LIMITING
-  await new Promise(resolve => setTimeout(resolve, 3000))
-
   const res = await fetch('https://api.groq.com/openai/v1/chat/completions', {
     headers: {
       'Content-Type': 'application/json',
@@ -36,15 +33,6 @@ export async function OpenAIStream(payload: OpenAIStreamPayload) {
     method: 'POST',
     body: JSON.stringify(payload),
   })
-
-  // ✅ VERIFIQUE O STATUS ANTES DE CRIAR O STREAM
-  if (res.status === 429) {
-    throw new Error('OpenAI: Muitas requisições. Aguarde 30 segundos.')
-  }
-
-  if (!res.ok) {
-    throw new Error(`OpenAI: Erro ${res.status} - ${res.statusText}`)
-  }
 
   const stream = new ReadableStream({
     async start(controller) {
@@ -74,7 +62,7 @@ export async function OpenAIStream(payload: OpenAIStreamPayload) {
 
       const parser = createParser(onParse)
       
-      for await (const chunk of res.body as any) {
+      for await (const chunk of res.body as ReadableStream<Uint8Array>) {
         parser.feed(decoder.decode(chunk))
       }
     },
