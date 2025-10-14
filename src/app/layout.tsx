@@ -26,7 +26,7 @@ export const metadata: Metadata = {
     description: "Site BioEnergy – O site voltado para energia sustentável",
     images: [
       {
-        url: "/page.png", // ← IMAGEM LOCAL!
+        url: "https://dvbzyrarvfhjqssoytlv.supabase.co/storage/v1/object/public/profile-images/Capturas_do_Site/14-BioEnergy.png", // URL externa
         width: 1200,
         height: 630,
         alt: "BioEnergy - Energia Sustentável",
@@ -37,7 +37,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "TCC Faculdade",
     description: "Site BioEnergy – O site voltado para energia sustentável",
-    images: ["/page.png"], // ← IMAGEM LOCAL!
+    images: ["https://dvbzyrarvfhjqssoytlv.supabase.co/storage/v1/object/public/profile-images/Capturas_do_Site/14-BioEnergy.png"], // URL externa
   },
   generator: "v0.dev",
 };
