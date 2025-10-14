@@ -1,3 +1,36 @@
+.primary-effect,
+.blur-effect{
+  position: relative;
+}
+
+.primary-effect::before,
+.blur-effect::before {
+  position: absolute;
+  content: "";
+  transition: var(--transition);
+}
+
+.primary-effect::before {
+  bottom: 0;
+  left: 0;
+  z-index: 2;
+  width: 100%;
+  height: 50%;
+  transition: var(--transition);
+  background: linear-gradient(to bottom, transparent 0%, var(--color-primary) 75%);
+}
+
+.blur-effect::before {
+  width: 322px;
+  height: 308px;
+  background: var(--gradient-2);
+  border-radius: 50%;
+  -webkit-filter: blur(150px);
+  filter: blur(150px);
+  z-index: 0;
+}
+
+
 #header {
     position: relative;
     overflow: hidden;

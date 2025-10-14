@@ -1,3 +1,8 @@
+.sub__title {
+  font-size: 25px;
+  font-weight: 600;
+}
+
 #services .title,
 #services .sub__title{
     text-align: center;

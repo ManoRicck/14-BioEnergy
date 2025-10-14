@@ -1,3 +1,19 @@
+.icon__container {
+  width: 2.5rem;
+  height: 2.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: var(--radius-5);
+  transition: var(--transition);
+  color: var(--color-text);
+  background: var(--color-ui-secondary);
+}
+
+.icon__container:hover{
+  transform: scale(1.2);
+}
+
 .achievement__container .container {
     display: grid;
     grid-template-columns: repeat(4, 1fr);

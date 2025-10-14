@@ -1,3 +1,24 @@
+.icon__container {
+  width: 2.5rem;
+  height: 2.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: var(--radius-5);
+  transition: var(--transition);
+  color: var(--color-text);
+  background: var(--color-ui-secondary);
+}
+
+.icon__container:hover{
+  transform: scale(1.2);
+}
+
+.sub__title {
+  font-size: 25px;
+  font-weight: 600;
+}
+
 #contact {
     position: relative;
     overflow: hidden;

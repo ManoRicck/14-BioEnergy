@@ -46,39 +46,39 @@ export const teams = [
       {name:"Instagram",icon:<FaInstagram/>,url:"http://instagram.com"},
     ]
   },
-  // {
-  //   name:"Júlio Henrique",
-  //   title:"Back-end",
-  //   profile:"/img/member-2.jpeg",
-  //   social:[
-  //     {name:"Github",icon:<FaGithub/>,url:"http://Github.com"},
-  //     {name:"LinkedIn",icon:<CiLinkedin/>,url:"http://linkedin.com"},
-  //     {name:"Discord",icon:<FaDiscord/>,url:"https://www.Discord.com"},
-  //     {name:"Instagram",icon:<FaInstagram/>,url:"http://instagram.com"},
-  //   ]
-  // },
-  // {
-  //   name:"Danilo Vinicius",
-  //   title:"Designer",
-  //   profile:"/img/member-3.jpeg",
-  //   social:[
-  //     {name:"Github",icon:<FaGithub/>,url:"http://Github.com"},
-  //     {name:"LinkedIn",icon:<CiLinkedin/>,url:"http://linkedin.com"},
-  //     {name:"Discord",icon:<FaDiscord/>,url:"https://www.Discord.com"},
-  //     {name:"Instagram",icon:<FaInstagram/>,url:"http://instagram.com"},
-  //   ]
-  // },
-  // {
-  //   name:"Joaquim Acioli",
-  //   title:"Banco de Dados",
-  //   profile:"/img/member-4.jpeg",
-  //   social:[
-  //     {name:"Github",icon:<FaGithub/>,url:"http://Github.com"},
-  //     {name:"LinkedIn",icon:<CiLinkedin/>,url:"http://linkedin.com"},
-  //     {name:"Discord",icon:<FaDiscord/>,url:"https://www.Discord.com"},
-  //     {name:"Instagram",icon:<FaInstagram/>,url:"http://instagram.com"},
-  //   ]
-  // },
+  {
+    name:"Júlio Henrique",
+    title:"Back-end",
+    profile:"/img/member-2.jpeg",
+    social:[
+      {name:"Github",icon:<FaGithub/>,url:"http://Github.com"},
+      {name:"LinkedIn",icon:<CiLinkedin/>,url:"http://linkedin.com"},
+      {name:"Discord",icon:<FaDiscord/>,url:"https://www.Discord.com"},
+      {name:"Instagram",icon:<FaInstagram/>,url:"http://instagram.com"},
+    ]
+  },
+  {
+    name:"Danilo Vinicius",
+    title:"Designer",
+    profile:"/img/member-3.jpeg",
+    social:[
+      {name:"Github",icon:<FaGithub/>,url:"http://Github.com"},
+      {name:"LinkedIn",icon:<CiLinkedin/>,url:"http://linkedin.com"},
+      {name:"Discord",icon:<FaDiscord/>,url:"https://www.Discord.com"},
+      {name:"Instagram",icon:<FaInstagram/>,url:"http://instagram.com"},
+    ]
+  },
+  {
+    name:"Joaquim Acioli",
+    title:"Banco de Dados",
+    profile:"/img/member-4.jpeg",
+    social:[
+      {name:"Github",icon:<FaGithub/>,url:"http://Github.com"},
+      {name:"LinkedIn",icon:<CiLinkedin/>,url:"http://linkedin.com"},
+      {name:"Discord",icon:<FaDiscord/>,url:"https://www.Discord.com"},
+      {name:"Instagram",icon:<FaInstagram/>,url:"http://instagram.com"},
+    ]
+  },
   // {
   //   name:"Yasmin Vitória",
   //   title:"Analista de Dados",
@@ -89,18 +89,6 @@ export const teams = [
   //     {name:"Discord",icon:<FaDiscord/>,url:"https://www.Discord.com"},
   //     {name:"Instagram",icon:<FaInstagram/>,url:"http://instagram.com"},
   //   ]
-  // },
-  // {
-  //   name:"Wendell Gabriel",
-  //   title:"Git e GitHub",
-  //   profile:"/img/member-6.jpeg",
-  //   social:[
-  //     {name:"Github",icon:<FaGithub/>,url:"http://Github.com"},
-  //     {name:"LinkedIn",icon:<CiLinkedin/>,url:"http://linkedin.com"},
-  //     {name:"Discord",icon:<FaDiscord/>,url:"https://www.Discord.com"},
-  //     {name:"Instagram",icon:<FaInstagram/>,url:"http://instagram.com"},
-  //   ]
-  // },
 ];
 
 export const projects = [
