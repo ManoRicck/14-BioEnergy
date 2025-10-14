@@ -61,9 +61,16 @@ export async function OpenAIStream(payload: OpenAIStreamPayload) {
       }
 
       const parser = createParser(onParse)
-      
-      for await (const chunk of res.body as ReadableStream<Uint8Array>) {
-        parser.feed(decoder.decode(chunk))
+
+      const reader = res.body?.getReader()
+      if (!reader) {
+        throw new Error('Failed to get reader from response body.')
+      }
+
+      while (true) {
+        const { done, value } = await reader.read()
+        if (done) break
+        parser.feed(decoder.decode(value))
       }
 
     },
