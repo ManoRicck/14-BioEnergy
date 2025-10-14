@@ -1,6 +1,8 @@
 import { FC } from 'react'
 
-interface ChatHeaderProps {}
+interface ChatHeaderProps {
+    customProp?: never;
+}
 
 const ChatHeader: FC<ChatHeaderProps> = ({}) => {
     return (

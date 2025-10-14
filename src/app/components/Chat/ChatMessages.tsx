@@ -5,7 +5,9 @@ import { cn } from "@/lib/utils";
 import { FC, HTMLAttributes, useContext } from "react";
 import MarkdownLite from "./MarkdownLite";
 
-interface ChatMessagesProps extends HTMLAttributes<HTMLDivElement> {}
+interface ChatMessagesProps extends HTMLAttributes<HTMLDivElement> {
+    customProp?: never;
+}
 
 const ChatMessages: FC<ChatMessagesProps> = ({ className, ...props }) => {
     const { messages } = useContext(MessagesContext)

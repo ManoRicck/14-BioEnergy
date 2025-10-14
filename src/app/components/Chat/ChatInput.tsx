@@ -10,7 +10,9 @@ import { FC, HTMLAttributes, useContext, useRef, useState } from 'react';
 import toast from 'react-hot-toast';
 import TextareaAutosize from "react-textarea-autosize";
 
-interface ChatInputProps extends HTMLAttributes<HTMLDivElement> {}
+interface ChatInputProps extends HTMLAttributes<HTMLDivElement> {
+  customProp?: never;
+}
 
 const ChatInput: FC<ChatInputProps> = ({ className, ...props }) => {
   const [input, setInput] = useState<string>('')
