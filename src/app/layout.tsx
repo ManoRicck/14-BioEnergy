@@ -16,28 +16,20 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "BioEnergy",
   description: "Site BioEnergy – O site voltado para energia sustentável",
-  keywords: [
-    "Henrique",
-    "Henrique Expedito",
-    "Front-End Developer",
-    "Web Developer Brasil",
-    "Portfolio ManoRicck",
-    "Bioenergy",
-  ],
-  themeColor: "#030014",
-  applicationName: "BioEnergy",
-  appleWebApp: {
-    capable: true,
-    statusBarStyle: "black-translucent",
+  icons: {
+    icon: "/icon.png",
+    shortcut: "/icon.png",
+    apple: "/icon.png",
   },
   openGraph: {
-    type: "website",
-    url: "https://14-bioenergy.vercel.app/",
     title: "TCC Faculdade",
     description: "Site BioEnergy – O site voltado para energia sustentável",
     images: [
       {
-        url: "/public/page.png"
+        url: "/page.png", // ← IMAGEM LOCAL!
+        width: 1200,
+        height: 630,
+        alt: "BioEnergy - Energia Sustentável",
       },
     ],
   },
@@ -45,10 +37,9 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "TCC Faculdade",
     description: "Site BioEnergy – O site voltado para energia sustentável",
-    images: [
-      "/public/page.png",
-    ],
+    images: ["/page.png"], // ← IMAGEM LOCAL!
   },
+  generator: "v0.dev",
 };
 
 export default function RootLayout({
