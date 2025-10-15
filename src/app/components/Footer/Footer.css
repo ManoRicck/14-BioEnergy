@@ -43,9 +43,9 @@
   color: var(--color-primary);
 }
 
-#footer {
+/* #footer {
     background: var(--color-ui-secondary);
-}
+} */
 
 #footer .btn {
     width: 140px;

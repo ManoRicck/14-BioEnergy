@@ -22,7 +22,7 @@ export const metadata: Metadata = {
     apple: "/icon.png",
   },
   openGraph: {
-    title: "TCC Faculdade",
+    title: "BioEnergy",
     description: "Site BioEnergy – O site voltado para energia sustentável",
     images: [
       {
@@ -35,7 +35,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "TCC Faculdade",
+    title: "BioEnergy",
     description: "Site BioEnergy – O site voltado para energia sustentável",
     images: ["https://dvbzyrarvfhjqssoytlv.supabase.co/storage/v1/object/public/profile-images/Capturas_do_Site/14-BioEnergy.png"], // URL externa
   },

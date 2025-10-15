@@ -63,11 +63,6 @@ export const energyData = `
         <role>Banco de Dados</role>
         <desc>Gerencia a estrutura e manutenção do banco de dados utilizado nos projetos de energia sustentável da BioEnergy.</desc>
     </member>
-    <member>
-        <name>Yasmin Vitória</name>
-        <role>Analista de Dados</role>
-        <desc>Responsável por análise, tratamento e interpretação de dados voltados à eficiência energética e sustentabilidade.</desc>
-    </member>
 </content>
 </url>
 `

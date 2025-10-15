@@ -40,7 +40,7 @@
 }
 
 .navbar.active {
-    background: var(--color-ui-secondary);
+    background: rgba(0, 0, 0, 0.888);
 }
 
 .navbar .box,

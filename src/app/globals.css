@@ -87,11 +87,6 @@ body {
   margin: auto;
 }
 
-:root {
-    --color-hover-dark: #006400; /* Verde escuro */
-    --color-hover-darker: #004d00; /* Verde mais escuro ainda */
-}
-
 a {
   text-decoration: none;
   display: inline-block;

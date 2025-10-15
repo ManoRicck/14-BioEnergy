@@ -17,7 +17,7 @@ const About = () => {
                     <h1 className='sub__title'>
                     Transformando sua <span className="g-text">visão</span> em realidade, concentrando-se no básico
                     </h1>
-                    <p className="text__muted description">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum doloribus veritatis rerum ipsam ullam ut delectus aliquam laudantium eligendi porro reiciendis, quos perferendis ratione facere molestias recusandae tenetur quae eum.</p>
+                    <p className="text__muted description">A Bioenergy se destaca pela segurança e eficiência em energia solar, utilizando sistemas fotovoltaicos avançados para máximo aproveitamento energético. Nossas soluções combinam protocolos rigorosos e tecnologia de ponta, garantindo operação contínua e protegida. Cada projeto é desenvolvido para otimizar performance e durabilidade, assegurando retorno consistente e total confiabilidade.</p>
                     <div className="group">
 
                         {/* Começo da row */}

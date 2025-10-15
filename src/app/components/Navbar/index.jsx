@@ -1,4 +1,4 @@
-"use client"
+"use client";
 
 import React, { useState, useEffect } from 'react';
 import "./Navbar.css";
@@ -11,15 +11,28 @@ import { FaTimes } from 'react-icons/fa';
 const Navbar = () => {
     const [open, setOpen] = useState(false);
     const [activeNavbar, setActiveNavbar] = useState(false);
+    const [isMobile, setIsMobile] = useState(false); // Inicialize como false
 
     const handleScroll = () => {
         const currentScrollPos = window.scrollY;
         setActiveNavbar(currentScrollPos > 50);
     };
 
+    const handleResize = () => {
+        setIsMobile(window.innerWidth <= 450);
+    };
+
     useEffect(() => {
+        // Configurar o estado inicial após a montagem do componente
+        setIsMobile(window.innerWidth <= 450);
+        
         window.addEventListener('scroll', handleScroll);
-        return () => window.removeEventListener('scroll', handleScroll);
+        window.addEventListener('resize', handleResize);
+        
+        return () => {
+            window.removeEventListener('scroll', handleScroll);
+            window.removeEventListener('resize', handleResize);
+        };
     }, []);
 
     return (
@@ -56,19 +69,32 @@ const Navbar = () => {
                         </Link>
                     )
                 ))}
-
+                {/* Botão de cadastro no menu responsivo */}
+                {isMobile && (
+                    <Link
+                        onClick={() => {
+                            window.open("#", "_blank");
+                        }}
+                        className='btn contact__btn responsive__cadastro'>
+                        Cadastre-se
+                    </Link>
+                )}
             </div>
             
             <div className="box">
-            <Link
-                    onClick={() => {
-                        window.open("#", "_blank");
-                    }}
-                    className='btn contact__btn'>Cadastre-se</Link>
+                {/* Botão de cadastro fora do menu */}
+                {!isMobile && (
+                    <Link
+                        onClick={() => {
+                            window.open("#", "_blank");
+                        }}
+                        className='btn contact__btn'>
+                        Cadastre-se
+                    </Link>
+                )}
                 <div className='icon__container menu__btn' onClick={() => setOpen(!open)}>
                     <RiMenu3Fill />
                 </div>
-                
             </div>
         </nav>
     );
