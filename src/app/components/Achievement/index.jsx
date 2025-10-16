@@ -26,7 +26,7 @@ const Achievement = () => {
     const timeout = setTimeout(() => {
       setClients(120)
       setProjects(150)
-      setTeam(6)
+      setTeam(4)
       setAwards(89)
     }, 500)
     return () => clearTimeout(timeout)
